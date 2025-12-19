@@ -161,16 +161,16 @@ Follow these steps to set up and run the project.
 pip install -r requirements.txt
 
 
-2️⃣ Train the Machine Learning Model
+### 2️⃣ Train the Machine Learning Model
 python train_model.py
 
-3️⃣ Launch the Streamlit Application
+### 3️⃣ Launch the Streamlit Application
 streamlit run app.py
 
 
 ---
 
-🧱 Project Folder Structure 
+### 🧱 Project Folder Structure 
 LoanApproval/
 │
 ├── train_model.py
@@ -187,7 +187,7 @@ LoanApproval/
 
 ---
 
-🌐 Deployment Targets
+### 🌐 Deployment Targets
 
 This project is lightweight and works smoothly on cloud platforms:
 
@@ -199,14 +199,14 @@ Render
 
 PythonAnywhere
 ---
-🏷 Author
+###🏷 Author
 
 Dikshitha Anand
 AI/ML Developer | Data Science Enthusiast
 
-GitHub: https://github.com/DikshithaAnand
+### GitHub: https://github.com/DikshithaAnand
 
-🎉 Conclusion
+### 🎉 Conclusion
 
 This project demonstrates:
 
