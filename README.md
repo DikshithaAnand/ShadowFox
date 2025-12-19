@@ -154,28 +154,23 @@ Artifacts:
 
 ## 🚀 Execution Guide  
 
+Follow these steps to set up and run the project.
+
 ### 1️⃣ Install Dependencies  
 ```bash
 pip install -r requirements.txt
 
-2️⃣ Train Model
+
+2️⃣ Train the Machine Learning Model
 python train_model.py
 
-3️⃣ Run Streamlit App
+3️⃣ Launch the Streamlit Application
 streamlit run app.py
 
-🖥 Streamlit App Capabilities
 
-Sidebar-based interaction
+---
 
-Clean input guidance with ranges
-
-Prevents unrealistic values using numeric limits
-
-Probability-based outcome
-
-Instant approve/reject decision
-
+🧱 Project Folder Structure 
 LoanApproval/
 │
 ├── train_model.py
@@ -189,38 +184,21 @@ LoanApproval/
 │
 └── models/
     └── loan_approval_model.pkl
+
+---
+
 🌐 Deployment Targets
 
-This project is deployable to:
+This project is lightweight and works smoothly on cloud platforms:
 
-Streamlit Cloud
+Streamlit Cloud (Recommended)
 
 HuggingFace Spaces
 
 Render
 
 PythonAnywhere
-
-Supports production-style inference.
-
-🚧 Future Enhancements
-
-ROC Curve & AUC score
-
-Hyperparameter Tuning
-
-Cross-validation scoring
-
-SMOTE oversampling
-
-XGBoost / CatBoost integration
-
-FastAPI inference endpoint
-
-Database storage + user analytics
-
-CI/CD for automated training
-
+---
 🏷 Author
 
 Dikshitha Anand
@@ -239,11 +217,9 @@ This project demonstrates:
 ✔ Serialization
 ✔ Web Application Deployment
 
-It reflects real-world ML system design worthy of internships, interviews, and portfolio demonstration.
 
 
 ---
 
-If you want a **short version, PDF report, or PPT slides**, I can prepare those too. 😊
 
 
