@@ -161,7 +161,7 @@ Follow these steps to set up and run the project.
 pip install -r requirements.txt
 
 2️⃣ Train the Machine Learning Model
-```bash
+
 python train_model.py
 
 3️⃣ Launch the Streamlit Application
