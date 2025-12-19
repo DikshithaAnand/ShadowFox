@@ -160,9 +160,8 @@ Follow these steps to set up and run the project.
 ```bash
 pip install -r requirements.txt
 
-
 2️⃣ Train the Machine Learning Model
-```
+```bash
 python train_model.py
 
 3️⃣ Launch the Streamlit Application
@@ -171,7 +170,7 @@ streamlit run app.py
 
 ---
 
-### 🧱 Project Folder Structure 
+🧱 Project Folder Structure 
 LoanApproval/
 │
 ├── train_model.py
@@ -188,7 +187,7 @@ LoanApproval/
 
 ---
 
-### 🌐 Deployment Targets
+🌐 Deployment Targets
 
 This project is lightweight and works smoothly on cloud platforms:
 
