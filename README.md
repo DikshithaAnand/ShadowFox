@@ -199,7 +199,6 @@ Render
 
 PythonAnywhere
 
-
  Author
 
 Dikshitha Anand
@@ -207,7 +206,7 @@ AI/ML Developer | Data Science Enthusiast
 
 GitHub: https://github.com/DikshithaAnand
 
-🎉 Conclusion
+Conclusion
 
 This project demonstrates:
 
