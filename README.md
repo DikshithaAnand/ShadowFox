@@ -173,6 +173,7 @@ streamlit run app.py
 
 
 🧱 Project Folder Structure 
+```bash
 LoanApproval/
 │
 ├── train_model.py
@@ -187,20 +188,22 @@ LoanApproval/
 └── models/
     └── loan_approval_model.pkl
 
-
+```
+---
 
 🌐 Deployment Targets
 
-This project is lightweight and works smoothly on cloud platforms:
+- This project is lightweight and works smoothly on cloud platforms:
 
-Streamlit Cloud (Recommended)
+- Streamlit Cloud (Recommended)
 
-HuggingFace Spaces
+- HuggingFace Spaces
 
-Render
+- Render
 
-PythonAnywhere
+- PythonAnywhere
 
+---
  Author
 
 Dikshitha Anand
