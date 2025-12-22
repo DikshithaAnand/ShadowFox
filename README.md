@@ -172,7 +172,7 @@ streamlit run app.py
 ```
 
 
-🧱 Project Folder Structure 
+## 🧱 Project Folder Structure 
 ```bash
 LoanApproval/
 │
@@ -191,7 +191,7 @@ LoanApproval/
 ```
 ---
 
-🌐 Deployment Targets
+##🌐 Deployment Targets
 
 - This project is lightweight and works smoothly on cloud platforms:
 
@@ -204,7 +204,7 @@ LoanApproval/
 - PythonAnywhere
 
 ---
- Author
+## Author
 
 Dikshitha Anand
 AI/ML Developer | Data Science Enthusiast
