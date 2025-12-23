@@ -217,11 +217,11 @@ GitHub: https://github.com/DikshithaAnand
 
 This project demonstrates:
 
-✔ Data Preprocessing
-✔ Feature Engineering
-✔ Model Benchmarking
-✔ Explainability (XAI)
-✔ Serialization
-✔ Web Application Deployment
+- ✔ Data Preprocessing
+- ✔ Feature Engineering
+- ✔ Model Benchmarking
+- ✔ Explainability (XAI)
+- ✔ Serialization
+- ✔ Web Application Deployment
 
 ---
