@@ -38,7 +38,7 @@ This project uses Machine Learning to automate loan decisions in a **fast, unbia
 ## 📊 Dataset Overview  
 
 Total Observations: **615**  
-Features: **13 input features**  
+Features: **13 input features** 
 Target: **Loan_Status**
 
 ### 🔹 Target Column  
