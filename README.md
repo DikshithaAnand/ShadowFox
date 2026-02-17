@@ -92,7 +92,7 @@ A unified **Scikit-Learn Pipeline** was used:
 
 ### 🧩 Preprocessing  
 - Numerical → Median Imputation + Standard Scaling  
-- Categorical → Mode Imputation + One-Hot Encoding  
+- Categorical → Mode Imputation + One-Hot Encoding
 
 ### 🧪 Trained Models  
 The following models were trained and benchmarked:
