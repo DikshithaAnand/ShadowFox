@@ -43,6 +43,7 @@ By analyzing historical patterns and applicant features, the system improves:
 - **Primary Evaluation Metric:** F1-Score (risk-sensitive)  
 - **Secondary Evaluation Metric:** Accuracy  
 
+
 ### 📊 Why F1-Score Matters
 
 Loan datasets are often slightly imbalanced, meaning one class (approved or rejected) may appear more frequently.
@@ -64,9 +65,10 @@ Features: **13 input features**
 Target: **Loan_Status**
 
 ### 🔹 Target Column  
-| Column       | Meaning |
-|--------------|---------|
-| Loan_Status  | Y = Approved, N = Rejected |
+
+| Column       | Description                          |
+|--------------|--------------------------------------|
+| Loan_Status  | `Y` → Approved &nbsp;&nbsp; `N` → Rejected |
 
 ### 🔹 Feature Categories  
 
