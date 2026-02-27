@@ -36,14 +36,26 @@ By analyzing historical patterns and applicant features, the system improves:
 ## 🎯 ML Problem Statement
 
 - **Task:** Binary Classification  
-- **Objective:** Predict 'Loan_Status (Y = Approved, N = Rejected)'
+- **Objective:** Predict `Loan_Status`  
+  - `Y` → Approved  
+  - `N` → Rejected  
 - **Approach:** Supervised Learning  
-- **Primary Metric:** F1-Score (risk-sensitive)  
-- **Secondary Metric:** Accuracy  
+- **Primary Evaluation Metric:** F1-Score (risk-sensitive)  
+- **Secondary Evaluation Metric:** Accuracy  
 
-> F1 matters more because loan datasets are slightly imbalanced.
+### 📊 Why F1-Score Matters
 
----
+Loan datasets are often slightly imbalanced, meaning one class (approved or rejected) may appear more frequently.
+
+Relying only on **accuracy** can be misleading in such cases.  
+The **F1-Score** balances:
+
+- **Precision** → How many approved predictions were actually correct  
+- **Recall** → How many eligible applicants were correctly identified  
+
+This makes F1 more suitable for minimizing:
+- False approvals (financial loss risk)  
+- False rejections (missed business opportunity)  
 
 ## 📊 Dataset Overview  
 
