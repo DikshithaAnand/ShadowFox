@@ -13,14 +13,24 @@ This project is ideal for:
 
 ## 💡 Business Motivation  
 
-Banks face two major risks:
+Financial institutions face two critical risks in loan decision-making:
 
-- **Approving loans for financially weak customers → money lost**
-- **Rejecting customers who can actually repay → lost business**
+- **Approving loans for financially unstable applicants → Increased default risk and financial loss**
+- **Rejecting creditworthy applicants → Missed revenue opportunities and reduced customer trust**
 
-Traditional manual assessment is slow and subjective.  
-This project uses Machine Learning to automate loan decisions in a **fast, unbiased, data-driven** manner.
+Traditional manual evaluation processes are often:
+- Time-consuming  
+- Subjective  
+- Inconsistent across cases  
 
+This project leverages **Machine Learning** to automate loan assessment in a **fast, objective, and data-driven** manner.  
+
+By analyzing historical patterns and applicant features, the system improves:
+- Decision accuracy  
+- Operational efficiency  
+- Risk management  
+- Scalability of loan processing
+  
 ---
 
 ## 🎯 ML Problem Statement
